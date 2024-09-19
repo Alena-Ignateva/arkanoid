@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#arkanoid {
+    background-color:black;
+    display: block;
+    margin: 0 auto;
+}
